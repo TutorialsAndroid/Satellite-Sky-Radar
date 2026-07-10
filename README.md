@@ -22,7 +22,7 @@ Real‑time GNSS satellite viewer for Android – see every GPS, GLONASS, Galile
 
 ## Privacy Policy
 
-A full privacy policy is available [here](https://your-username.github.io/repo-name/privacy.html).  
+A full privacy policy is available [here](https://tutorialsandroid.github.io/Satellite-Sky-Radar/privacy.html).  
 You can also view it in‑app by tapping the **ℹ️ Privacy** button.
 
 ## Getting Started (Build & Run)
